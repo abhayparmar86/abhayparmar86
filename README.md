@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [[github.com/abhayparmar86/]((https://github.com/abhayparmar86?tab=repositories)].
+- 👨‍💻 All of my projects are available at [github.com/abhayparmar86](https://github.com/abhayparmar86?tab=repositories)
 
 - 💬 Ask me about **Machine Learning**
 
