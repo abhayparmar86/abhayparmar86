@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/abhay-parmar-profile/overlay/background-image/">
+<img src="https://media.licdn.com/dms/image/D4D16AQHBui3-xQfy4Q/profile-displaybackgroundimage-shrink_350_1400/0/1682141653275?e=1696464000&v=beta&t=y5R4NrV3oKo480yPeeOBd2u4KvMaWYJGUvBrNI5uuAM">
 <h1 align="center">Hi 👋, I'm Abhay Parmar./h1>
 <h3 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Machine Learning 🕸️ and working on my Web Development Skills 🤓.
 </h3>
