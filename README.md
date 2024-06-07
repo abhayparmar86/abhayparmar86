@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHBui3-xQfy4Q/profile-displaybackgroundimage-shrink_350_1400/0/1682141653275?e=1696464000&v=beta&t=y5R4NrV3oKo480yPeeOBd2u4KvMaWYJGUvBrNI5uuAM">
 <h1 align="center">Hi, I'm Abhay Parmar.</h1>
 <h3 align="center">I'm passionate about learning new technologies and leveraging them to solve real world problems. Currently I am focused on developing my AI/ML skills by building projects.
 </h3>
