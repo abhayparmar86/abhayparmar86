@@ -9,7 +9,7 @@
 
 - 💾 All of my projects are available at [github.com/abhayparmar86](https://github.com/abhayparmar86?tab=repositories)
 
-- 💬 Let's talk about using **Machine Learning** to solve real world problems
+- 💬 Let's talk about using **AI/ML** to solve real world problems
 
 - 📫 Mail at **abhayparmar8602@gmail.com**
 
